@@ -8,7 +8,7 @@
 
 <h3>Stacks:</h3> 
 
-<div align="center">
+<div align="start">
 
 | Front-End | Back-End / Outros |
 |---|---|
