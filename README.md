@@ -9,7 +9,7 @@
 <span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
 
 <h3>Stacks:</h3> 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 <div align="start">
 
 | Front-End | Back-End / Outros |
