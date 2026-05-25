@@ -1,5 +1,5 @@
-<h2>Hello! 👋</h2>
-<h3>Meu nome é Junior, eu sou um Desenvolvedor de Software.</h3>
+<h2>Eae! 👋  Meu nome é Junior, eu sou um Desenvolvedor de Software. </h2>
+<h3></h3>
 <h3>Meu passatempo é resolver problemas.</h3>
 
 <h4>Trabalho principalmente com Front-end, além de prototipação e Back-end.</h4>
