@@ -10,7 +10,7 @@
 
 <h3>Stacks:</h3> 
   
-<div align="start">
+<div align="start" color='green'>
 
 | Front-End | Back-End / Outros |
 |---|---|
