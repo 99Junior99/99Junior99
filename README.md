@@ -7,8 +7,8 @@
 <span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
 
 <h3>Stacks:</h3> 
-<ul></ul>
-- HTML             - JAVA<br>
+<ul>
+  - HTML             
 - CSS 
 - JAVASCRIPT
 - REACT
@@ -16,6 +16,10 @@
 - TYPESCRIPT
 - NODE
 - BASH 
+</ul>
+
+
+- JAVA<br>
 - PYTHON 
 - C
 - C++
