@@ -21,7 +21,7 @@
 | NEXT |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> |
 | TYPESCRIPT | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> |
 | NODE |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" /> |
-| BASH | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gamemakerstudio/gamemakerstudio-original.svg" width="40" /> |
+| BASH |<img src="https://www.svgrepo.com/show/373622/gamemaker.svg" width="40" /> |
 
 </div>
 
