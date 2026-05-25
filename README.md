@@ -18,7 +18,7 @@
 - BASH 
 </ul>
 
-<ul>
+
   - JAVA
 - PYTHON 
 - C
@@ -27,7 +27,7 @@
 - MYSQL
 - GODOT
 - GAMEMAKER
-</ul>
+
 
 
 <span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
