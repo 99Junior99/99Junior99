@@ -2,8 +2,8 @@
 <h3>Meu nome é Junior, eu sou um Desenvolvedor de Software.</h3>
 <h3>##Meu passatempo é resolver problemas.</h3>
 <span>##Trabalho principalmente com Frontend, além de prototipação e Back-end.</span>
-<span>#Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER</span>
 <span>##Nas horas vagas sou desenvolvedor de jogos indie.</span>
+<span>#Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
 <span>##Atualmente estou trabalhando em conjunto com @MatheusAlbuquerque uma plataforma de administração de clínicas odontológicas.</span>
 
 <!--
