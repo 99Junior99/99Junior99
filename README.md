@@ -15,8 +15,8 @@
 | Front-End | Back-End / Outros |
 |---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> | JAVA |
-| CSS | PYTHON |
-| JAVASCRIPT | C |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> | PYTHON |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> | C |
 | REACT | C++ |
 | NEXT | C# |
 | TYPESCRIPT | MYSQL |
