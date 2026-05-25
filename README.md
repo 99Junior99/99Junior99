@@ -7,7 +7,7 @@
 <span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
 
 <h3>Stacks:</h3> 
-- HTML <br>
+- HTML  - JAVA<br>
 - CSS 
 - JAVASCRIPT
 - REACT
