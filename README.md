@@ -7,6 +7,7 @@
 <span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
 
 <h3>Stacks:</h3> 
+<ul></ul>
 - HTML             - JAVA<br>
 - CSS 
 - JAVASCRIPT
@@ -14,7 +15,14 @@
 - NEXT
 - TYPESCRIPT
 - NODE
-- BASH , PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
+- BASH 
+- PYTHON 
+- C
+- C++
+- C#
+- MYSQL
+- GODOT
+- GAMEMAKER
 
 <span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
 
