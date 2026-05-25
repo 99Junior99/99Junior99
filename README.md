@@ -8,7 +8,7 @@
 
 <h3>Stacks:</h3> 
 <ul>
-  - HTML             
+- HTML             
 - CSS 
 - JAVASCRIPT
 - REACT
@@ -18,8 +18,8 @@
 - BASH 
 </ul>
 
-
-- JAVA<br>
+<ul>
+  - JAVA
 - PYTHON 
 - C
 - C++
@@ -27,6 +27,8 @@
 - MYSQL
 - GODOT
 - GAMEMAKER
+</ul>
+
 
 <span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
 
