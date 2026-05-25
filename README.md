@@ -6,9 +6,10 @@
 
 <span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
 
-<span>#Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
+<span>Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
 
-<span>##Atualmente estou trabalhando em conjunto com <a url='https://github.com/matheusalbuquer'>Matheus</a> uma plataforma de administração de clínicas odontológicas.</span>
+<span>Atualmente estou trabalhando em conjunto com Visite meu [Portfólio](https://seusite.com) para ver mais projetos.
+Matheus</a> uma plataforma de administração de clínicas odontológicas.</span>
 
 <!--
 **99Junior99/99Junior99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
