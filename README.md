@@ -19,7 +19,7 @@
 </ul>
 
 
-  - JAVA
+- JAVA
 - PYTHON 
 - C
 - C++
