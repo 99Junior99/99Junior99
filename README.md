@@ -8,7 +8,7 @@
 
 <span>Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
 
-<span>Atualmente estou trabalhando em conjunto com @matheusalbuquer em uma plataforma de administração de clínicas odontológicas.</span>
+<span>Atualmente estou trabalhando em conjunto com [Matheus](https://github.com/matheusalbuquer) em uma plataforma de administração de clínicas odontológicas.</span>
 
 <!--
 **99Junior99/99Junior99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
