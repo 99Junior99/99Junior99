@@ -1,8 +1,10 @@
 <h2>Hello! 👋</h2>
 <h3>Meu nome é Junior, eu sou um Desenvolvedor de Software.</h3>
-<h3>"Tudo o que eu quiser "</h3>
-<h3>Trabalho principalmente com Frontend, além de prototipação e Back-end.</h3>
-<p>Atualmente estou trabalhando em um dashboard de agendamento de consultas odontológicas</p>
+<h3>##Meu passatempo é resolver problemas.</h3>
+<span>##Trabalho principalmente com Frontend, além de prototipação e Back-end.</span>
+<span>#Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER</span>
+<span>##Nas horas vagas sou desenvolvedor de jogos indie.</span>
+<span>##Atualmente estou trabalhando em conjunto com @MatheusAlbuquerque uma plataforma de administração de clínicas odontológicas.</span>
 
 <!--
 **99Junior99/99Junior99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
