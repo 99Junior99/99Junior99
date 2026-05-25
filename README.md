@@ -8,7 +8,7 @@
 
 <span>Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
 
-<span>Atualmente estou trabalhando em conjunto com Visite meu [Portfólio](https://seusite.com) para ver mais projetos.
+<span>Atualmente estou trabalhando em conjunto com [Matheus](https://seusite.com) para ver mais projetos.
 Matheus</a> uma plataforma de administração de clínicas odontológicas.</span>
 
 <!--
