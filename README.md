@@ -1,7 +1,7 @@
 <h2>Olá meu nome é Junior! 👋</h2>
 <h3>Fullstack Developer</h3>
 <h3>Indie Game Developer</h3>
-<span>Atualmente estou trabalhando em um dashboard de agendamento de consultas odontológicas</span>
+<p>Atualmente estou trabalhando em um dashboard de agendamento de consultas odontológicas</p>
 
 <!--
 **99Junior99/99Junior99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
