@@ -21,7 +21,7 @@
 | NEXT |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> |
 | TYPESCRIPT | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> |
 | NODE |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" /> |
-| BASH |<img src="https://www.svgrepo.com/show/373622/gamemaker.svg" width="40" /> |
+| BASH |<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gamemaker</title><path d="M.012 11.994 12.006 0l11.982 12.006h-6.831l-5.163-5.151-5.151 5.151 5.163 5.151v-5.151h5.151v6.903L12.006 24z"/></svg> |
 
 </div>
 
