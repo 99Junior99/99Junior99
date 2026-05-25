@@ -6,7 +6,7 @@
 
 <h4>Nas horas vagas sou desenvolvedor de jogos indie.</h4>
 
-<span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
+<p>Atualmente estou desenvolvendo em conjunto com <span>[Matheus](https://github.com/matheusalbuquer)</span> uma plataforma de administração de clínicas odontológicas.</p>
 
 <h3>Stacks:</h3>  <br>
   
