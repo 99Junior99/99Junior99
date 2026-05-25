@@ -6,6 +6,8 @@
 
 <span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
 
+<span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
+
 <h3>Stacks:</h3> 
 
 <div align="start">
@@ -25,7 +27,7 @@
 
 
 
-<span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
+
 
 <!--
 **99Junior99/99Junior99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
