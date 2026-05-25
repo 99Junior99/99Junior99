@@ -2,11 +2,11 @@
 <h3>Meu nome é Junior, eu sou um Desenvolvedor de Software.</h3>
 <h3>Meu passatempo é resolver problemas.</h3>
 
-<span>Trabalho principalmente com Frontend, além de prototipação e Back-end.</span>
+<h4>Trabalho principalmente com Front-end, além de prototipação e Back-end.</h4>
 
-<span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
+<h4>Nas horas vagas sou desenvolvedor de jogos indie.</h4>
 
-<span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</span>
+<p>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer) uma plataforma de administração de clínicas odontológicas.</p>
 
 <h3>Stacks:</h3>  <br>
   
