@@ -1,6 +1,7 @@
-<h2>Olá meu nome é Junior! 👋</h2>
-<h3>Fullstack Developer</h3>
-<h3>Indie Game Developer</h3>
+<h2>Hello! 👋</h2>
+<h3>Meu nome é Junior, eu sou um Desenvolvedor de Software.</h3>
+<h3>"Tudo o que eu quiser "</h3>
+<h3>Trabalho principalmente com Frontend, além de prototipação e Back-end.</h3>
 <p>Atualmente estou trabalhando em um dashboard de agendamento de consultas odontológicas</p>
 
 <!--
