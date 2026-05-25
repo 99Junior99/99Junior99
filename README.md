@@ -1,9 +1,10 @@
 <h2>Hello! 👋</h2>
 <h3>Meu nome é Junior, eu sou um Desenvolvedor de Software.</h3>
-<h3>##Meu passatempo é resolver problemas.</h3>
-<span>##Trabalho principalmente com Frontend, além de prototipação e Back-end.</span>
+<h3>Meu passatempo é resolver problemas.</h3>
 
-<span>##Nas horas vagas sou desenvolvedor de jogos indie.</span>
+<span>Trabalho principalmente com Frontend, além de prototipação e Back-end.</span>
+
+<span>Nas horas vagas sou desenvolvedor de jogos indie.</span>
 
 <span>#Stacks: HTML, CSS, JAVASCRIPT, REACT, NEXT, TYPESCRIPT, NODE, BASH, JAVA, PYTHON, C, C++, C#, MYSQL, GODOT, GAMEMAKER.</span>
 
