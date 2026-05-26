@@ -1,12 +1,12 @@
-<h2>Eae 👋 Meu nome é Junior!</h2>
+<h2>👋 Eae Meu nome é Junior!</h2>
 
-<h3>Sou Desenvolvedor de Software. 💻</h3>
+<h3>💻 Sou Desenvolvedor de Software. </h3>
 
-<h3>Meu passatempo é resolver problemas. 😎</h3>
+<h3>😎 Meu passatempo é resolver problemas.</h3>
 
-<h4>Trabalho principalmente com Front-end, além de prototipação e Back-end. 👨‍💻</h4>
+<h4>👨‍💻 Trabalho principalmente com Front-end, além de prototipação e Back-end.</h4>
 
-<h4>Nas horas vagas sou desenvolvedor de jogos indie. 🎮</h4>
+<h4>🎮 Nas horas vagas sou desenvolvedor de jogos indie. </h4>
 
 <span>Atualmente estou desenvolvendo em conjunto com [Matheus](https://github.com/matheusalbuquer)</span> uma plataforma de administração de clínicas odontológicas.</span> <br>
 
