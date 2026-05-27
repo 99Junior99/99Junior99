@@ -35,11 +35,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gamemaker.svg" width="40" />
-
+<br>
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99Junior99&show_icons=true&theme=radical)
+
 
 
 
