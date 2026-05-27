@@ -1,4 +1,4 @@
-<h2>👋 Eae Meu nome é Junior!</h2>
+<h1>👋 Eae Meu nome é Junior!</h1>
 
 <h3>💻 Sou Desenvolvedor de Software. </h3>
 
